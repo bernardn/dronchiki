@@ -2197,7 +2197,7 @@
 		"gyro_sync_denom": 1,
 		"pid_process_denom": 4,
 		"use_unsyncedPwm": 0,
-		"fast_pwm_protocol": 6,
+		"fast_pwm_protocol": 7,
 		"motor_pwm_rate": 480,
 		"digitalIdlePercent": 5.5,
 		"gyroUse32kHz": 0,
@@ -2591,7 +2591,7 @@
 			],
 			"_beeperMask": 4384
 		},
-		"dshotBeaconTone": 2,
+		"dshotBeaconTone": 1,
 		"dshotBeaconConditions": {
 			"_beepers": [
 				{
@@ -2605,7 +2605,7 @@
 					"visible": true
 				}
 			],
-			"_beeperMask": 0
+			"_beeperMask": 514
 		}
 	},
 	"MODE_RANGES_EXTRA": [
